@@ -1,3 +1,62 @@
-baseURL: https://example.org/
-languageCode: en-us
-title: My New Hugo Site
+baseURL: https://www.tibslab.fr
+languageCode: fr-fr
+title: Tib's Lab
+theme: ["PaperMod"]
+enableRobotsTXT: true
+params:
+  env: production # to enable google analytics, opengraph, twitter-cards and schema.
+  title: Tib's Lab
+  description: "Offre de DSI dédiée aux petites entreprises, ainsi qu'un blog technique sur les bonnes pratiques, le matériel, et bien plus encore."
+  author: Thibault Jochem
+  defaultTheme: light
+  defaultDate: 2023-10-01
+  keywords: [Blog, Portfolio, DSI, Informatique, Matériel, Logiciel]
+  ShowReadingTime: true
+  ShowShareButtons: true
+  ShowPostNavLinks: true
+  UseHugoToc: true
+  mainsections: ["services", "blog"]
+  minify:
+  disableXML: true
+  minifyOutput: true
+params:
+  env: "production"
+  ShowReadingTime: true
+  ShowShareButtons: true
+  ShowPostNavLinks: true
+  ShowCodeCopyButtons: true
+  ShowToc: true
+  TocOpen: true
+  ShowPageCover: true
+  profileMode:
+    enabled: true
+    title: "DSI à la demande"
+    subtitle: "Solutions informatiques sur mesure pour PME et indépendants."
+    imageUrl: "/images/tibslab.svg" # (optionnel, ton logo)
+    imageWidth: 512
+    imageHeight: 640
+    imageRounded: false
+    socialIcons:
+      - name: linkedin
+        url: "tryum"
+      - name: bluesky
+        url: "tibs.fr"
+      - name: github
+        url: "tryum"
+    buttons:
+      - name: "Services"
+        url: "/services/"
+      - name: "Blog"
+        url: "/posts/"
+      - name: "Contact"
+        url: "/contact/"
+menu:
+  main:
+    - identifier: services
+      name: Services
+      url: /services/
+      weight: 10
+    - identifier: blog
+      name: Blog
+      url: /posts/
+      weight: 20
