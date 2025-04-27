@@ -1,6 +1,8 @@
 ---
 date: '2025-04-27T23:13:45+02:00'
-draft: true
+draft: false
+description: 'Contactez-nous pour toute question ou demande de renseignement.'
+keywords: ['contact', 'TIBS Lab', 'informations', 'demande']
 title: 'Contact'
 ---
 📞 Contactez-nous dès aujourd’hui !

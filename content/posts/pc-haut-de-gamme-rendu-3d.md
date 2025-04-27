@@ -2,7 +2,8 @@
 title: "Configuration PC haut de gamme équilibrée pour le rendu 3D (2025)"
 date: 2025-04-27
 tags: ["hardware", "PC", "rendu 3D", "build", "config", "affiliation"]
-draft: true
+draft: false
+description: "Découvrez une configuration PC haut de gamme optimisée pour le rendu 3D professionnel, alliant performance et budget maîtrisé."
 ---
 
 ## Un PC sur mesure pour le rendu 3D exigeant (sans exploser votre budget)
