@@ -50,6 +50,9 @@ params:
         url: "/posts/"
       - name: "Contact"
         url: "/contact/"
+  assets:
+    disableHLJS: true
+    favicon: "/favicon.svg"
 menu:
   main:
     - identifier: services
