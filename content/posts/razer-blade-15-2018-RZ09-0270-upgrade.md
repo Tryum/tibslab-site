@@ -118,7 +118,7 @@ Pour un excellent rapport performances/prix, voici la configuration recommandée
 
 - 🧠 **RAM** : [Crucial 32 Go (2×16 Go) DDR4-2666 SO-DIMM](https://amzn.to/3SHNGoP) — la mise à niveau essentielle pour tous les usages avancés.  
 - ⚡ **SSD NVMe** : [Crucial P3 Plus 1 To](https://amzn.to/3GWTLvd) — rapide, fiable, et très bien placé en prix.  
-- 💾 **SSD SATA 2.5" 2 To** *(optionnel)* : [Crucial MX500 ou Samsung 870 EVO](#) — pour remplacer le disque dur et doubler votre espace de stockage.  
+- 💾 **SSD SATA 2.5" 2 To** *(optionnel)* : [Crucial MX500 ou Samsung 870 EVO](https://amzn.to/3Zg9vzN) — pour remplacer le disque dur et doubler votre espace de stockage.  
 - ❄️ **Pâte thermique Arctic MX-6** *(optionnel)* : [ARCTIC MX-6](#) — idéale pour améliorer la dissipation thermique sans risque.
 
 > 🎯 Avec cette configuration, votre Razer Blade 15 (2018) sera prêt à affronter encore plusieurs années de gaming, de montage vidéo ou de développement intensif.
