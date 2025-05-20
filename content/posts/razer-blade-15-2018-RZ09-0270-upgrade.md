@@ -1,7 +1,6 @@
 ---
 title: "Mise à niveau du Razer Blade 15 (2018) RZ09-0270 : RAM, SSD, accessoires"
 date: '2025-05-20T12:34:38+02:00'
-draft: true
 description: "Boostez les performances de votre Razer Blade 15 (2018) avec ce guide complet de mise à niveau. RAM, SSD NVMe, SSD SATA, pâte thermique, accessoires — tout est couvert."
 tags: ["razer", "mise à niveau", "laptop", "ssd", "ram", "gaming"]
 categories: ["hardware"]
