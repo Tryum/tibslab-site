@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="840" viewBox="0 0 1600 840" role="img" aria-label="PC haut de gamme pour la présentation">
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0f172a"/>
+      <stop offset="50%" stop-color="#1e293b"/>
+      <stop offset="100%" stop-color="#111827"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#38bdf8"/>
+      <stop offset="100%" stop-color="#22d3ee"/>
+    </linearGradient>
+  </defs>
+  <rect width="100%" height="100%" fill="url(#g)"/>
+  <g fill="none" stroke="url(#accent)" opacity="0.35">
+    <circle cx="200" cy="200" r="180" stroke-width="2"/>
+    <circle cx="1400" cy="320" r="240" stroke-width="2"/>
+    <circle cx="900" cy="720" r="180" stroke-width="2"/>
+  </g>
+  <g font-family="Segoe UI, Roboto, Ubuntu, 'Helvetica Neue', Arial, sans-serif" fill="#e5e7eb">
+    <text x="80" y="180" font-size="54" font-weight="700">Configurations PC haut de gamme</text>
+    <text x="80" y="240" font-size="36" opacity="0.9">Showroom / Présentations — 2025</text>
+    <text x="80" y="320" font-size="26" fill="#a5f3fc">RTX 5090 · RTX 5080 · AM5 · DDR5</text>
+  </g>
+  <g fill="none" stroke="#0ea5e9" opacity="0.2">
+    <rect x="60" y="120" width="1480" height="600" rx="24"/>
+  </g>
+</svg>
