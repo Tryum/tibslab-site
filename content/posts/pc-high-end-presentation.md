@@ -20,7 +20,7 @@ Concevoir un PC « vitrine » pour des démonstrations en public (showroom, salo
 
 - ultra fluide en 4K/120 (voire 8K en lecture démo),
 - silencieux et stable pendant des sessions prolongées,
-- doté d’une connectique généreuse (USB‑C en façade, Wi‑Fi/Bluetooth, 2.5/10 GbE selon besoin),
+- doté d’une connectique généreuse (USB‑C en façade, 2.5/10 GbE selon besoin),
 - simple à transporter et à mettre en route.
 
 Voici deux configurations prêtes à l’emploi et équilibrées, avec variantes possibles selon disponibilité.
@@ -92,7 +92,7 @@ Version équilibrée réutilisant la base de la configuration haut de gamme, opt
 | Carte graphique (GPU) | GeForce RTX 5080 16G Expert OC | 1 357 | 1 131 | [Lien](https://amzn.to/4nsQdjC) |
 | Processeur (CPU) | AMD Ryzen 7 9800X3D (AM5) | 450 | 376 | [Lien](https://amzn.to/48NyDDr) |
 | Refroidissement CPU | Noctua NH-D15 chromax.black | 120 | 100 | [Lien](https://amzn.to/47e34S2) |
-| Carte mère | ASUS Prime X870-P | 350 | 291 | [Lien](https://amzn.to/4oH09aa) |
+| Carte mère | ASUS Prime X870-P | 230 | 191 | [Lien](https://amzn.to/4oH09aa) |
 | Mémoire (RAM) | Crucial Pro RAM 96Go Kit (2x48Go) DDR5 5600MHz | 240 | 200 | [Lien](https://amzn.to/4qz1phx) |
 | SSD système | Samsung SSD 990 Pro NVMe 2 To PCIe 4.0 | 144 | 120 | [Lien](https://amzn.to/3JzkuQ0) |
 | Alimentation (PSU) | CORSAIR RM1000e (2025) | 144 | 120 | [Lien](https://amzn.to/4oHnoRF) |
@@ -101,7 +101,7 @@ Version équilibrée réutilisant la base de la configuration haut de gamme, opt
 
 _Note : certains liens peuvent être affiliés ; ils n’affectent pas le prix et contribuent à soutenir le site._
 
-Budget total estimé: ≈ 3 090 € TTC (≈ 2 580 € HT) — variable selon marques et disponibilités.
+Budget total estimé: ≈ 3000 € TTC (≈ 2 500 € HT) — variable selon marques et disponibilités.
 
 Notes pratiques :
 
